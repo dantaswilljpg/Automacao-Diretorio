@@ -16,9 +16,7 @@ Este script foi criado para automatizar a criação da estrutura básica de um p
 3. Execute o script usando o comando `./criar_estrutura_projeto.sh NOME_DO_PROJETO`.
 4. Siga as instruções para selecionar as linguagens desejadas.
 
-## Exemplo de Uso
 
-![Exemplo de Uso](exemplo_uso.gif)
 
 ## Pré-requisitos
 
